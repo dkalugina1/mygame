@@ -1,0 +1,11 @@
+*.pro.user
+*.obj
+*.o
+*.so
+*.exe
+*.dll
+*.log
+moc_*
+ui_*
+qrc_*
+build*/

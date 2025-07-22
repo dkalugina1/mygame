@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>black.png</file>
+        <file>green.png</file>
+        <file>hero.png</file>
+        <file>red.png</file>
+        <file>background.png</file>
+        <file>background1.jpg</file>
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>hit.wav</file>
+        <file>hit1.wav</file>
+        <file>hit2.wav</file>
+        <file>newlevel.wav</file>
+        <file>button.wav</file>
+        <file>menu.wav</file>
+        <file>game2.wav</file>
+    </qresource>
+</RCC>
